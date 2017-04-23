@@ -1,0 +1,1 @@
+git+https://github.com/dattanchu/pymodoro.git@master#egg=pymodoro-0.2
